@@ -1,0 +1,9 @@
+jsonviwer.stack.hu - páina para formatar JSON - clicando no botão Format
+
+O map serve para mapear cada JSON ou objeto dentro de um array
+vamos mapear o pizzaJson = usando o map: 
+pizzaJson.map((item, index) =>{
+    console.log(item) 
+})
+
+cloneNode(true) = faz uma copia do nó, de todos os elementos html que estão dentro, se vc colocar false, ele faz um copia do elemento principal.
